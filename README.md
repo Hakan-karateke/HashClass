@@ -1,0 +1,2 @@
+# HashClass
+Hashing Functions
